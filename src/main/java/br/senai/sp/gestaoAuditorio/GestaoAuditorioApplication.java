@@ -8,6 +8,8 @@ public class GestaoAuditorioApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GestaoAuditorioApplication.class, args);
+		System.out.println("OIIIIIIIII");
 	}
-
+		
+	
 }
