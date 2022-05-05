@@ -1,8 +1,8 @@
-package sistema.auditorio.cfp8.repository;
+package br.senai.sp.gestaoAuditorio.repository;
 
 import org.springframework.data.repository.PagingAndSortingRepository;
 
-import sistema.auditorio.cfp8.model.Administrador;
+import br.senai.sp.gestaoAuditorio.model.Administrador;
 
 public interface AdministradorRepository extends PagingAndSortingRepository<Administrador, Long> {
 

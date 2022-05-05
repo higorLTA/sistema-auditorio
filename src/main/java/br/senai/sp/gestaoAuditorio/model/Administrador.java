@@ -1,4 +1,4 @@
-package sistema.auditorio.cfp8.model;
+package br.senai.sp.gestaoAuditorio.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
